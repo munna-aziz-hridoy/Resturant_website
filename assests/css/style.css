@@ -244,8 +244,9 @@ img{
 
 /* === HOME === */
 .home_container{
-    height: 100vh;
+/*     height: 100vh; */
     align-content: center;
+    padding: 7rem 0 5rem;
 }
 
 .home_title{
